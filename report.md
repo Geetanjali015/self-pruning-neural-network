@@ -1,6 +1,6 @@
 # Technical Report — Self-Pruning Neural Network for CIFAR-10
 
-**Author:** AI Engineering Intern Candidate  
+**Author:** Geetanjali Reddy
 **Submission:** Tredence AI Engineering Internship — Case Study  
 **Stack:** Python · PyTorch · Torchvision · Matplotlib · Google Colab (GPU)
 
