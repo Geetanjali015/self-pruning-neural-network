@@ -159,6 +159,7 @@ python self_pruning_network.py
 ## Screenshots
 ### 1. Baseline MLP 
 <img width="693" height="442" alt="image" src="https://github.com/user-attachments/assets/4a5a52dc-a2bf-4509-a6f2-4848cbb95cb0" />
+
 ### 2. CNN
 <img width="720" height="466" alt="image" src="https://github.com/user-attachments/assets/23ff711e-8cb7-415a-8bb1-49240c311adb" />
 
