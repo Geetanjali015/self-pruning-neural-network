@@ -1,6 +1,6 @@
 
 
-# 🧠 Self-Pruning Neural Network for CIFAR-10
+# 🧠 NeuroPruneX- Self-Pruning Neural Network for CIFAR-10
 ### Tredence AI Engineering Intern — Case Study Submission
 > A PyTorch implementation of neural networks that learn to prune their own weights **during training** — not after — using learnable sigmoid gates and L1 sparsity regularization.
 
